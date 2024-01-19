@@ -1,3 +1,3 @@
-module github.com/gustavobarretto/gocurrency
+module github.com/gustavobarretto/goncurrency
 
 go 1.21.6
